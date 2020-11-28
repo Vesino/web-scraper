@@ -1,0 +1,3 @@
+Links = //div[@class="story-content"]/a/@href
+Titulo = //div[@class="ArticlePage-article-header-23J2O"]/h1/text()
+Cuerpo = //div[@class="ArticleBodyWrapper"]/p/text()
